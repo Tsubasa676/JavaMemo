@@ -15,12 +15,7 @@ public class Cal {
     final private static String SPACE= "    ";//カレンダー表示時、1日が始まるまでの間を埋める
     private static int[] days = {31,28,31,30,31,30,31,31,30,31,30,31};//1～12月の各日数（平年時）
     private static Random Ra = new Random();
-
-    Cal(){
-        System.out.println("コンストラクタ");
-    }
-
-
+    
     public static void main(String[] args){
         System.out.println("出力を開始");
         //好きな年・月を指定する。
