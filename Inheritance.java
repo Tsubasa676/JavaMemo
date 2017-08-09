@@ -1,6 +1,6 @@
 package sample;
 
-public class test {
+public class Inheritance {
 
     private int num = 0;
 
