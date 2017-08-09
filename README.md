@@ -2,7 +2,7 @@
 忘れないようにメモ書き
 
 # IntelliJ IDEA
-・ライブテンプレート<br />
+<h2>・ライブテンプレート</h2>
 ＞登録
 Setting > Editor > Live Templates
 ＞よく使うモノ
