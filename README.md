@@ -2,10 +2,10 @@
 忘れないようにメモ書き
 
 # IntelliJ IDEA
-<h2>・ライブテンプレート</h2>
-＞登録
-Setting > Editor > Live Templates
-＞よく使うモノ
+<h3>・ライブテンプレート</h3>
+<p>登録</p>
+Setting > Editor > Live Templates<br>
+<p>よく使うモノ</p>
 psvm : public static void main(String[] args) {}
 sout : System.out.println();
 soutv : System.out.println("変数名 = " + 変数名);
