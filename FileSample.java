@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 public class FileSample {
     public static void main(String[] args) throws IOException {
 
-        String spath = "C:\\Users\\akuhara\\Desktop\\java";
+        String spath = "C:\\Users\\xxx\\Desktop\\java";
         File dir = null;
         File file = null;
 
