@@ -45,7 +45,6 @@ public class FibonacciNumber {
     static void Round() {
         //元データ
         double val = 42.195;
-
         //元データをBigDecimal型にする
         BigDecimal bd = new BigDecimal(val);
 
