@@ -10,4 +10,5 @@ psvm : public static void main(String[] args) {}<br>
 sout : System.out.println();<br>
 soutv : System.out.println("変数名 = " + 変数名);<br>
 soutm : System.out.println(クラス名.メソッド名);<br>
+
 などなど<br>
