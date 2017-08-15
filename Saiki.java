@@ -19,8 +19,8 @@ public class Saiki {
             System.out.println(i);
             if(no != co){
                 co ++;
-                Saiki(no,co);
-                co--;
+                Saiki(no,co);//これ呼ばれた後
+                co--;//デクリメント
             }
         }
     }
