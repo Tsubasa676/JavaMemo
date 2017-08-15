@@ -28,5 +28,8 @@ public class Timer {
         }
         long stopTime = System.currentTimeMillis();
         System.out.println("\n" + (stopTime - startTime) + "ミリ秒経過");
+        
+        System.out.println("END");
+        
     }
 }
