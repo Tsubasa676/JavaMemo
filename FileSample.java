@@ -71,7 +71,7 @@ public class FileSample {
         } catch (Exception e) {
             System.out.println(e);
         }
-        System.out.println("END");
+        System.out.println("- END -");
         
     }
 }
