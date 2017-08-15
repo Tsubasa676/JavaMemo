@@ -79,6 +79,7 @@ public class Inheritance {
     }
 
 }
+
 //以下アブストラクト
 abstract class absClass {//抽象クラス
     abstract public void abs1();
