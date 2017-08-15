@@ -41,7 +41,7 @@ public class StringUni {
         System.out.println("str6\n「" + str6 + "」\n => \n「" + str6.trim() + "」");
         System.out.println("trim()で消えるのは文字列前後の半角スペース,\\t,\\nが消える。文字列内では無効");
 
-        System.out.println();
+        System.out.println(" - END -");
 
     }
 }
