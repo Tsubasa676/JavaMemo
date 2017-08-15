@@ -17,6 +17,7 @@ public class Cal {
     private static Random Ra = new Random();
     
     public static void main(String[] args){
+        
         System.out.println("出力を開始");
         //好きな年・月を指定する。
         System.out.println("有効範囲：年「1873 ～ 3000 」月「1 ～ 12 」");
