@@ -39,7 +39,8 @@ public class ListSample {
         Collections.sort(arr, Collections.reverseOrder());
         System.out.println("sort    :\tarr = " + arr);
 
-
+        System.out.println("END");
+        
     }
 
 }
