@@ -2,7 +2,7 @@ package sample;
 
 import java.util.Random;
 
-public class RandomTest {
+public class Random {
     private static int c0;
     private static int c1;
     private static int c2;
