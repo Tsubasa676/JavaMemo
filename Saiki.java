@@ -22,6 +22,6 @@ public class Saiki {
                 Saiki(no,co);//これ呼ばれた後
                 co--;//デクリメント
             }
-        }
+        }//forループ
     }
 }
